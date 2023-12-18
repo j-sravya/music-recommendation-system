@@ -138,4 +138,4 @@ streamlit run app/streamlit_app.py
 
 ## Disclaimer
 
-This project is based on academic research and enhanced into a portfolio-grade AI recommendation system for educational and demonstration 
+This project is based on academic research and enhanced into a portfolio-grade AI recommendation system for educational and demonstration purpose.
