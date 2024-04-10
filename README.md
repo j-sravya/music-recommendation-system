@@ -136,6 +136,3 @@ streamlit run app/streamlit_app.py
 * User personalization
 * Deep learning recommendation models
 
-## Disclaimer
-
-This project is based on academic research and enhanced into a portfolio-grade AI recommendation system for educational and 
