@@ -1,0 +1,151 @@
+song_id,song_name,artist,genre,release_year,popularity,mood,tempo,danceability,energy,acousticness,valence,metadata_features
+SNG0001,Silent Letters 1,Riya Frost,Rock,1998,78,Energetic,137.0,0.536,0.898,0.393,0.53,Silent Letters 1 Riya Frost Rock Energetic 1998
+SNG0002,Golden Signals,Cedar Skies,Rock,2019,64,Intense,129.7,0.708,0.912,0.114,0.631,Golden Signals Cedar Skies Rock Intense 2019
+SNG0003,Silent Dreams,Aria Stone,Pop,2000,55,Romantic,113.4,0.733,0.749,0.01,0.456,Silent Dreams Aria Stone Pop Romantic 2000
+SNG0004,Crystal Letters,Cedar Skies,Country,2004,66,Happy,106.4,0.479,0.598,0.423,0.416,Crystal Letters Cedar Skies Country Happy 2004
+SNG0005,Urban Mirrors,Nova Lane,Indie,2023,75,Dreamy,122.7,0.577,0.558,0.261,0.409,Urban Mirrors Nova Lane Indie Dreamy 2023
+SNG0006,Electric Letters,Riya Frost,Jazz,2008,47,Romantic,105.1,0.385,0.495,0.536,0.482,Electric Letters Riya Frost Jazz Romantic 2008
+SNG0007,Neon Pulse,The Signal Theory,Rock,2010,78,Intense,126.0,0.735,0.818,0.032,0.667,Neon Pulse The Signal Theory Rock Intense 2010
+SNG0008,Ocean Rivers,Echo Harbor,Indie,2023,51,Nostalgic,95.8,0.621,0.315,0.274,0.506,Ocean Rivers Echo Harbor Indie Nostalgic 2023
+SNG0009,Velvet Pulse,Cedar Skies,Jazz,2000,62,Chill,111.4,0.517,0.436,0.578,0.328,Velvet Pulse Cedar Skies Jazz Chill 2000
+SNG0010,Ocean Skyline,Aria Stone,Classical,2016,63,Calm,76.8,0.234,0.447,0.928,0.191,Ocean Skyline Aria Stone Classical Calm 2016
+SNG0011,Golden Pulse,Atlas North,Electronic,2022,90,Energetic,127.2,0.821,0.799,0.166,0.754,Golden Pulse Atlas North Electronic Energetic 2022
+SNG0012,Fading Firelight,Riya Frost,Rock,2010,58,Intense,141.3,0.466,0.783,0.226,0.687,Fading Firelight Riya Frost Rock Intense 2010
+SNG0013,Silver Gravity,Aria Stone,Classical,2009,64,Sad,79.2,0.261,0.187,0.713,0.526,Silver Gravity Aria Stone Classical Sad 2009
+SNG0014,Wild Horizon,Luna Park,Rock,2017,66,Energetic,145.6,0.543,0.94,0.231,0.476,Wild Horizon Luna Park Rock Energetic 2017
+SNG0015,Silver Horizon,Riya Frost,R&B,2010,60,Sad,95.6,0.834,0.496,0.599,0.199,Silver Horizon Riya Frost R&B Sad 2010
+SNG0016,Silent Pulse,Echo Harbor,Classical,2024,66,Calm,92.2,0.289,0.284,0.893,0.162,Silent Pulse Echo Harbor Classical Calm 2024
+SNG0017,Golden Letters,Riya Frost,Classical,2010,72,Sad,81.8,0.316,0.497,0.807,0.315,Golden Letters Riya Frost Classical Sad 2010
+SNG0018,Crystal Firelight 2,Zara Bloom,Classical,2004,44,Focus,79.0,0.372,0.359,0.806,0.487,Crystal Firelight 2 Zara Bloom Classical Focus 2004
+SNG0019,Ocean Dreams,Blue Meridian,Indie,2002,56,Nostalgic,109.0,0.697,0.466,0.414,0.429,Ocean Dreams Blue Meridian Indie Nostalgic 2002
+SNG0020,Neon Letters,Velvet Orbit,Folk,2011,61,Calm,83.4,0.48,0.431,0.781,0.47,Neon Letters Velvet Orbit Folk Calm 2011
+SNG0021,Cosmic Skyline,Echo Harbor,R&B,2000,66,Romantic,77.8,0.638,0.459,0.268,0.519,Cosmic Skyline Echo Harbor R&B Romantic 2000
+SNG0022,Parallel Skyline,Iris Monroe,Hip-Hop,2023,76,Energetic,100.0,0.98,0.721,0.236,0.57,Parallel Skyline Iris Monroe Hip-Hop Energetic 2023
+SNG0023,Velvet Dreams,Orion Beats,Folk,2012,65,Calm,78.8,0.447,0.407,0.98,0.475,Velvet Dreams Orion Beats Folk Calm 2012
+SNG0024,Urban Gravity,Cedar Skies,Rock,2019,65,Nostalgic,135.0,0.547,0.68,0.34,0.658,Urban Gravity Cedar Skies Rock Nostalgic 2019
+SNG0025,Electric Rivers,Iris Monroe,Rock,2007,88,Energetic,139.9,0.459,0.988,0.01,0.636,Electric Rivers Iris Monroe Rock Energetic 2007
+SNG0026,Wild Skyline,Luna Park,Indie,2014,57,Nostalgic,129.9,0.501,0.482,0.474,0.415,Wild Skyline Luna Park Indie Nostalgic 2014
+SNG0027,Electric Afterglow,Aria Stone,Country,2017,66,Nostalgic,96.5,0.587,0.433,0.616,0.48,Electric Afterglow Aria Stone Country Nostalgic 2017
+SNG0028,Fading Echoes,Neon District,Country,1998,74,Nostalgic,127.5,0.502,0.521,0.664,0.44,Fading Echoes Neon District Country Nostalgic 1998
+SNG0029,Silent Echoes,Atlas North,Classical,2024,68,Calm,86.3,0.411,0.127,0.906,0.454,Silent Echoes Atlas North Classical Calm 2024
+SNG0030,Ocean Rivers,Mira Vale,Folk,2000,59,Calm,105.8,0.326,0.242,0.853,0.539,Ocean Rivers Mira Vale Folk Calm 2000
+SNG0031,Electric Firelight,Kairo West,Country,2022,82,Happy,114.5,0.615,0.478,0.583,0.638,Electric Firelight Kairo West Country Happy 2022
+SNG0032,Wild Pulse,Riya Frost,Country,2003,66,Calm,104.9,0.767,0.617,0.383,0.685,Wild Pulse Riya Frost Country Calm 2003
+SNG0033,Ocean Gravity,Aria Stone,Electronic,2015,89,Focus,114.3,0.939,0.99,0.01,0.745,Ocean Gravity Aria Stone Electronic Focus 2015
+SNG0034,Fading Skyline,Orion Beats,Classical,2012,53,Calm,88.1,0.362,0.548,0.846,0.322,Fading Skyline Orion Beats Classical Calm 2012
+SNG0035,Parallel Dreams 3,Nova Lane,Rock,2008,72,Energetic,123.1,0.468,0.811,0.228,0.596,Parallel Dreams 3 Nova Lane Rock Energetic 2008
+SNG0036,Ocean Firelight,Mira Vale,Electronic,1998,70,Energetic,132.3,0.861,0.99,0.043,0.974,Ocean Firelight Mira Vale Electronic Energetic 1998
+SNG0037,Golden Dreams,Neon District,Rock,1999,56,Energetic,138.3,0.464,0.691,0.248,0.531,Golden Dreams Neon District Rock Energetic 1999
+SNG0038,Electric Horizon,Cedar Skies,R&B,2004,67,Sad,99.1,0.727,0.491,0.261,0.343,Electric Horizon Cedar Skies R&B Sad 2004
+SNG0039,Urban Motion,Zara Bloom,R&B,2005,54,Romantic,87.5,0.766,0.526,0.206,0.563,Urban Motion Zara Bloom R&B Romantic 2005
+SNG0040,Neon Motion,Iris Monroe,Rock,2019,71,Intense,135.9,0.462,0.838,0.188,0.411,Neon Motion Iris Monroe Rock Intense 2019
+SNG0041,Midnight Motion,The Signal Theory,Pop,2019,74,Romantic,121.6,0.836,0.85,0.388,0.501,Midnight Motion The Signal Theory Pop Romantic 2019
+SNG0042,Silent Dreams,Aria Stone,Rock,2005,61,Intense,122.6,0.602,0.882,0.252,0.98,Silent Dreams Aria Stone Rock Intense 2005
+SNG0043,Fading Letters,Riya Frost,Jazz,2003,63,Calm,109.7,0.614,0.564,0.711,0.479,Fading Letters Riya Frost Jazz Calm 2003
+SNG0044,Silver Dreams,Echo Harbor,Country,2001,48,Nostalgic,119.6,0.503,0.532,0.482,0.611,Silver Dreams Echo Harbor Country Nostalgic 2001
+SNG0045,Fading Rivers,Iris Monroe,Electronic,2003,87,Energetic,147.1,0.673,0.962,0.01,0.559,Fading Rivers Iris Monroe Electronic Energetic 2003
+SNG0046,Crystal Echoes,Luna Park,Jazz,1999,48,Romantic,114.9,0.506,0.321,0.52,0.608,Crystal Echoes Luna Park Jazz Romantic 1999
+SNG0047,Ocean Horizon,Iris Monroe,R&B,2007,71,Sad,84.7,0.702,0.505,0.289,0.819,Ocean Horizon Iris Monroe R&B Sad 2007
+SNG0048,Velvet Letters,Aria Stone,R&B,2002,63,Romantic,98.3,0.477,0.522,0.287,0.651,Velvet Letters Aria Stone R&B Romantic 2002
+SNG0049,Midnight Echoes,Neon District,Country,1999,63,Calm,104.1,0.569,0.621,0.671,0.444,Midnight Echoes Neon District Country Calm 1999
+SNG0050,Electric Echoes,Orion Beats,Country,2025,53,Calm,108.7,0.533,0.482,0.797,0.653,Electric Echoes Orion Beats Country Calm 2025
+SNG0051,Silver Pulse,Mira Vale,Hip-Hop,2000,76,Confident,83.4,0.932,0.955,0.345,0.382,Silver Pulse Mira Vale Hip-Hop Confident 2000
+SNG0052,Parallel Signals 4,Blue Meridian,Rock,2016,77,Energetic,127.2,0.677,0.735,0.242,0.661,Parallel Signals 4 Blue Meridian Rock Energetic 2016
+SNG0053,Neon Gravity,Orion Beats,Rock,2011,67,Energetic,122.7,0.544,0.431,0.037,0.527,Neon Gravity Orion Beats Rock Energetic 2011
+SNG0054,Crystal Heartbeat,Riya Frost,Classical,2005,56,Sad,71.5,0.443,0.148,0.818,0.437,Crystal Heartbeat Riya Frost Classical Sad 2005
+SNG0055,Urban Skyline,Neon District,Indie,2012,65,Dreamy,122.4,0.456,0.69,0.461,0.352,Urban Skyline Neon District Indie Dreamy 2012
+SNG0056,Golden Dreams,The Signal Theory,Folk,2016,60,Calm,102.6,0.47,0.328,0.79,0.45,Golden Dreams The Signal Theory Folk Calm 2016
+SNG0057,Golden Letters,Sage River,Indie,2002,63,Chill,109.1,0.666,0.74,0.287,0.757,Golden Letters Sage River Indie Chill 2002
+SNG0058,Ocean Gravity,Cedar Skies,Hip-Hop,2012,85,Chill,76.5,0.825,0.771,0.239,0.499,Ocean Gravity Cedar Skies Hip-Hop Chill 2012
+SNG0059,Velvet Firelight,Cedar Skies,Country,1998,74,Nostalgic,109.9,0.531,0.489,0.669,0.646,Velvet Firelight Cedar Skies Country Nostalgic 1998
+SNG0060,Golden Horizon,The Signal Theory,Hip-Hop,2006,64,Chill,89.1,0.93,0.737,0.314,0.662,Golden Horizon The Signal Theory Hip-Hop Chill 2006
+SNG0061,Ocean Afterglow,Aria Stone,Indie,2007,72,Dreamy,99.7,0.544,0.64,0.545,0.477,Ocean Afterglow Aria Stone Indie Dreamy 2007
+SNG0062,Velvet Pulse,Zara Bloom,Indie,2014,54,Dreamy,109.2,0.728,0.479,0.537,0.454,Velvet Pulse Zara Bloom Indie Dreamy 2014
+SNG0063,Midnight Echoes,Riya Frost,Jazz,2024,78,Romantic,101.8,0.61,0.549,0.734,0.69,Midnight Echoes Riya Frost Jazz Romantic 2024
+SNG0064,Electric Horizon,Riya Frost,Hip-Hop,2018,77,Energetic,96.2,0.908,0.663,0.245,0.563,Electric Horizon Riya Frost Hip-Hop Energetic 2018
+SNG0065,Golden Skyline,Nova Lane,Jazz,2015,74,Chill,105.0,0.56,0.352,0.913,0.389,Golden Skyline Nova Lane Jazz Chill 2015
+SNG0066,Cosmic Afterglow,Echo Harbor,Hip-Hop,2015,81,Chill,83.9,0.956,0.795,0.287,0.662,Cosmic Afterglow Echo Harbor Hip-Hop Chill 2015
+SNG0067,Midnight Gravity,Kairo West,Hip-Hop,2011,85,Energetic,95.9,0.75,0.709,0.105,0.707,Midnight Gravity Kairo West Hip-Hop Energetic 2011
+SNG0068,Silver Letters,Aria Stone,Pop,2009,58,Romantic,116.5,0.697,0.681,0.298,0.607,Silver Letters Aria Stone Pop Romantic 2009
+SNG0069,Cosmic Motion 5,Cedar Skies,Classical,2022,66,Sad,75.8,0.304,0.349,0.809,0.359,Cosmic Motion 5 Cedar Skies Classical Sad 2022
+SNG0070,Urban Mirrors,Luna Park,Hip-Hop,2005,78,Confident,98.3,0.695,0.531,0.099,0.552,Urban Mirrors Luna Park Hip-Hop Confident 2005
+SNG0071,Ocean Afterglow,Luna Park,Jazz,1998,73,Romantic,107.1,0.648,0.553,0.598,0.518,Ocean Afterglow Luna Park Jazz Romantic 1998
+SNG0072,Urban Horizon,Luna Park,Electronic,2006,73,Energetic,114.0,0.858,0.845,0.125,0.512,Urban Horizon Luna Park Electronic Energetic 2006
+SNG0073,Silent Letters,Zara Bloom,Pop,2025,75,Energetic,123.2,0.933,0.707,0.296,0.77,Silent Letters Zara Bloom Pop Energetic 2025
+SNG0074,Silent Echoes,Blue Meridian,Indie,2024,60,Nostalgic,104.0,0.622,0.552,0.474,0.38,Silent Echoes Blue Meridian Indie Nostalgic 2024
+SNG0075,Cosmic Skyline,Riya Frost,Jazz,2008,61,Romantic,104.2,0.55,0.624,0.754,0.8,Cosmic Skyline Riya Frost Jazz Romantic 2008
+SNG0076,Neon Echoes,Cedar Skies,Country,2010,80,Nostalgic,104.3,0.667,0.582,0.857,0.495,Neon Echoes Cedar Skies Country Nostalgic 2010
+SNG0077,Midnight Skyline,Riya Frost,Indie,2003,54,Nostalgic,99.6,0.54,0.295,0.386,0.381,Midnight Skyline Riya Frost Indie Nostalgic 2003
+SNG0078,Crystal Signals,Neon District,Classical,2021,51,Sad,85.5,0.314,0.545,0.98,0.345,Crystal Signals Neon District Classical Sad 2021
+SNG0079,Velvet Echoes,Aria Stone,Jazz,2016,57,Chill,95.0,0.549,0.292,0.876,0.673,Velvet Echoes Aria Stone Jazz Chill 2016
+SNG0080,Silver Horizon,Cedar Skies,Pop,2014,83,Romantic,113.3,0.609,0.882,0.224,0.841,Silver Horizon Cedar Skies Pop Romantic 2014
+SNG0081,Golden Firelight,Iris Monroe,Electronic,2009,81,Focus,108.1,0.8,0.881,0.087,0.561,Golden Firelight Iris Monroe Electronic Focus 2009
+SNG0082,Ocean Gravity,The Signal Theory,Classical,2019,47,Sad,90.2,0.173,0.303,0.897,0.487,Ocean Gravity The Signal Theory Classical Sad 2019
+SNG0083,Ocean Gravity,Velvet Orbit,Jazz,2008,43,Chill,111.1,0.388,0.266,0.799,0.563,Ocean Gravity Velvet Orbit Jazz Chill 2008
+SNG0084,Silver Horizon,Velvet Orbit,Electronic,2011,85,Energetic,116.5,0.98,0.894,0.245,0.629,Silver Horizon Velvet Orbit Electronic Energetic 2011
+SNG0085,Wild Pulse,Velvet Orbit,Folk,2007,54,Calm,118.6,0.626,0.37,0.916,0.584,Wild Pulse Velvet Orbit Folk Calm 2007
+SNG0086,Urban Signals 6,Iris Monroe,Indie,2004,69,Nostalgic,121.7,0.504,0.632,0.608,0.251,Urban Signals 6 Iris Monroe Indie Nostalgic 2004
+SNG0087,Fading Firelight,The Midnight Keys,Classical,2012,51,Calm,72.2,0.076,0.288,0.98,0.615,Fading Firelight The Midnight Keys Classical Calm 2012
+SNG0088,Silver Skyline,Luna Park,R&B,2023,68,Chill,92.7,0.843,0.334,0.142,0.533,Silver Skyline Luna Park R&B Chill 2023
+SNG0089,Cosmic Mirrors,Mira Vale,Folk,2008,58,Calm,101.8,0.447,0.152,0.768,0.33,Cosmic Mirrors Mira Vale Folk Calm 2008
+SNG0090,Electric Echoes,Aria Stone,Indie,2005,54,Dreamy,114.7,0.637,0.437,0.388,0.342,Electric Echoes Aria Stone Indie Dreamy 2005
+SNG0091,Fading Motion,Mira Vale,R&B,2017,69,Sad,91.4,0.776,0.382,0.451,0.471,Fading Motion Mira Vale R&B Sad 2017
+SNG0092,Fading Motion,Velvet Orbit,Electronic,2020,66,Energetic,116.1,0.849,0.756,0.01,0.464,Fading Motion Velvet Orbit Electronic Energetic 2020
+SNG0093,Urban Motion,The Signal Theory,Pop,2022,64,Happy,137.6,0.784,0.636,0.27,0.665,Urban Motion The Signal Theory Pop Happy 2022
+SNG0094,Wild Letters,Echo Harbor,Country,2012,68,Nostalgic,109.8,0.641,0.651,0.476,0.525,Wild Letters Echo Harbor Country Nostalgic 2012
+SNG0095,Silver Dreams,The Midnight Keys,Hip-Hop,2023,72,Chill,93.2,0.61,0.518,0.391,0.794,Silver Dreams The Midnight Keys Hip-Hop Chill 2023
+SNG0096,Parallel Pulse,The Midnight Keys,Classical,2022,72,Sad,81.5,0.338,0.357,0.98,0.566,Parallel Pulse The Midnight Keys Classical Sad 2022
+SNG0097,Fading Heartbeat,Cedar Skies,Country,2011,71,Calm,110.7,0.484,0.367,0.578,0.502,Fading Heartbeat Cedar Skies Country Calm 2011
+SNG0098,Urban Letters,Riya Frost,R&B,2012,54,Sad,77.8,0.615,0.37,0.616,0.655,Urban Letters Riya Frost R&B Sad 2012
+SNG0099,Velvet Rivers,Blue Meridian,Country,2013,76,Nostalgic,111.9,0.728,0.569,0.429,0.798,Velvet Rivers Blue Meridian Country Nostalgic 2013
+SNG0100,Neon Afterglow,Riya Frost,Indie,2005,48,Nostalgic,113.4,0.496,0.527,0.337,0.3,Neon Afterglow Riya Frost Indie Nostalgic 2005
+SNG0101,Crystal Horizon,Blue Meridian,Hip-Hop,2002,76,Confident,105.3,0.98,0.532,0.279,0.495,Crystal Horizon Blue Meridian Hip-Hop Confident 2002
+SNG0102,Crystal Afterglow,Iris Monroe,Electronic,2000,71,Happy,119.1,0.801,0.776,0.087,0.512,Crystal Afterglow Iris Monroe Electronic Happy 2000
+SNG0103,Cosmic Motion 7,Aria Stone,Jazz,1999,70,Romantic,106.7,0.495,0.421,0.493,0.445,Cosmic Motion 7 Aria Stone Jazz Romantic 1999
+SNG0104,Cosmic Mirrors,Nova Lane,Folk,2020,56,Nostalgic,105.6,0.5,0.283,0.794,0.598,Cosmic Mirrors Nova Lane Folk Nostalgic 2020
+SNG0105,Velvet Mirrors,Sage River,R&B,1998,73,Chill,75.3,0.734,0.42,0.46,0.441,Velvet Mirrors Sage River R&B Chill 1998
+SNG0106,Urban Signals,Cedar Skies,Jazz,2015,59,Calm,86.0,0.337,0.456,0.656,0.402,Urban Signals Cedar Skies Jazz Calm 2015
+SNG0107,Fading Echoes,Iris Monroe,Electronic,2006,69,Focus,130.4,0.694,0.872,0.01,0.535,Fading Echoes Iris Monroe Electronic Focus 2006
+SNG0108,Cosmic Rivers,Luna Park,Jazz,2021,65,Calm,104.5,0.414,0.404,0.761,0.445,Cosmic Rivers Luna Park Jazz Calm 2021
+SNG0109,Parallel Signals,Velvet Orbit,Country,1998,46,Calm,120.4,0.467,0.624,0.752,0.279,Parallel Signals Velvet Orbit Country Calm 1998
+SNG0110,Electric Pulse,Iris Monroe,Rock,2018,63,Intense,124.0,0.608,0.796,0.232,0.481,Electric Pulse Iris Monroe Rock Intense 2018
+SNG0111,Neon Letters,Velvet Orbit,Pop,2006,70,Energetic,118.9,0.764,0.86,0.276,0.724,Neon Letters Velvet Orbit Pop Energetic 2006
+SNG0112,Velvet Mirrors,Velvet Orbit,Classical,2022,47,Focus,79.9,0.231,0.268,0.935,0.365,Velvet Mirrors Velvet Orbit Classical Focus 2022
+SNG0113,Ocean Dreams,Nova Lane,Rock,2013,93,Energetic,134.9,0.758,0.925,0.134,0.716,Ocean Dreams Nova Lane Rock Energetic 2013
+SNG0114,Urban Firelight,Mira Vale,Classical,2005,55,Calm,79.9,0.076,0.199,0.618,0.374,Urban Firelight Mira Vale Classical Calm 2005
+SNG0115,Cosmic Echoes,Aria Stone,Pop,2005,64,Romantic,118.2,0.948,0.759,0.209,0.788,Cosmic Echoes Aria Stone Pop Romantic 2005
+SNG0116,Silver Skyline,Zara Bloom,Electronic,2002,94,Happy,101.9,0.884,0.973,0.01,0.769,Silver Skyline Zara Bloom Electronic Happy 2002
+SNG0117,Urban Afterglow,Riya Frost,Electronic,2012,84,Energetic,127.4,0.818,0.956,0.398,0.644,Urban Afterglow Riya Frost Electronic Energetic 2012
+SNG0118,Urban Pulse,The Signal Theory,Folk,2021,73,Calm,100.5,0.404,0.298,0.896,0.389,Urban Pulse The Signal Theory Folk Calm 2021
+SNG0119,Velvet Signals,Nova Lane,Indie,2001,77,Nostalgic,108.7,0.552,0.607,0.507,0.615,Velvet Signals Nova Lane Indie Nostalgic 2001
+SNG0120,Golden Signals 8,Aria Stone,Jazz,2010,68,Chill,98.9,0.473,0.333,0.558,0.569,Golden Signals 8 Aria Stone Jazz Chill 2010
+SNG0121,Cosmic Firelight,Atlas North,Electronic,2001,87,Happy,131.6,0.768,0.984,0.27,0.674,Cosmic Firelight Atlas North Electronic Happy 2001
+SNG0122,Neon Dreams,Echo Harbor,Rock,2023,75,Intense,150.8,0.473,0.671,0.01,0.754,Neon Dreams Echo Harbor Rock Intense 2023
+SNG0123,Silver Afterglow,Orion Beats,Classical,2000,64,Calm,90.5,0.274,0.354,0.722,0.738,Silver Afterglow Orion Beats Classical Calm 2000
+SNG0124,Golden Motion,Zara Bloom,Jazz,2024,72,Romantic,105.3,0.511,0.537,0.687,0.549,Golden Motion Zara Bloom Jazz Romantic 2024
+SNG0125,Crystal Heartbeat,Kairo West,R&B,2020,75,Sad,84.1,0.727,0.726,0.568,0.747,Crystal Heartbeat Kairo West R&B Sad 2020
+SNG0126,Urban Rivers,Cedar Skies,Indie,2017,63,Chill,102.9,0.501,0.535,0.468,0.622,Urban Rivers Cedar Skies Indie Chill 2017
+SNG0127,Cosmic Letters,Neon District,Folk,2006,53,Calm,81.1,0.603,0.381,0.72,0.368,Cosmic Letters Neon District Folk Calm 2006
+SNG0128,Parallel Signals,The Midnight Keys,R&B,2005,63,Sad,75.5,0.762,0.509,0.199,0.372,Parallel Signals The Midnight Keys R&B Sad 2005
+SNG0129,Cosmic Afterglow,Zara Bloom,Classical,1998,53,Calm,80.6,0.447,0.289,0.67,0.388,Cosmic Afterglow Zara Bloom Classical Calm 1998
+SNG0130,Neon Gravity,Riya Frost,Electronic,2009,80,Happy,121.3,0.59,0.873,0.048,0.711,Neon Gravity Riya Frost Electronic Happy 2009
+SNG0131,Wild Letters,Nova Lane,Indie,2015,60,Dreamy,126.5,0.713,0.518,0.305,0.815,Wild Letters Nova Lane Indie Dreamy 2015
+SNG0132,Urban Letters,Cedar Skies,Jazz,2013,61,Chill,104.6,0.501,0.447,0.648,0.501,Urban Letters Cedar Skies Jazz Chill 2013
+SNG0133,Golden Gravity,Nova Lane,R&B,2012,62,Romantic,86.3,0.625,0.496,0.304,0.447,Golden Gravity Nova Lane R&B Romantic 2012
+SNG0134,Fading Dreams,Sage River,Electronic,2007,76,Happy,125.1,0.835,0.99,0.01,0.762,Fading Dreams Sage River Electronic Happy 2007
+SNG0135,Neon Afterglow,Cedar Skies,Jazz,2021,58,Chill,116.5,0.293,0.409,0.568,0.337,Neon Afterglow Cedar Skies Jazz Chill 2021
+SNG0136,Silent Skyline,Riya Frost,Indie,2007,59,Nostalgic,100.2,0.489,0.76,0.591,0.645,Silent Skyline Riya Frost Indie Nostalgic 2007
+SNG0137,Urban Horizon 9,Cedar Skies,Classical,2001,39,Calm,91.2,0.167,0.257,0.949,0.261,Urban Horizon 9 Cedar Skies Classical Calm 2001
+SNG0138,Velvet Horizon,Zara Bloom,Electronic,2021,88,Happy,131.1,0.836,0.835,0.18,0.678,Velvet Horizon Zara Bloom Electronic Happy 2021
+SNG0139,Golden Pulse,Atlas North,Country,2017,60,Nostalgic,108.4,0.696,0.43,0.636,0.677,Golden Pulse Atlas North Country Nostalgic 2017
+SNG0140,Velvet Echoes,Luna Park,Electronic,2009,77,Happy,120.9,0.893,0.73,0.209,0.596,Velvet Echoes Luna Park Electronic Happy 2009
+SNG0141,Midnight Dreams,Echo Harbor,Hip-Hop,2006,79,Energetic,90.8,0.945,0.615,0.01,0.378,Midnight Dreams Echo Harbor Hip-Hop Energetic 2006
+SNG0142,Golden Pulse,Zara Bloom,Hip-Hop,2018,81,Confident,102.1,0.712,0.911,0.01,0.801,Golden Pulse Zara Bloom Hip-Hop Confident 2018
+SNG0143,Fading Afterglow,Zara Bloom,Indie,2013,79,Dreamy,110.1,0.59,0.485,0.516,0.475,Fading Afterglow Zara Bloom Indie Dreamy 2013
+SNG0144,Golden Pulse,Zara Bloom,Pop,2006,69,Happy,129.0,0.791,0.738,0.189,0.673,Golden Pulse Zara Bloom Pop Happy 2006
+SNG0145,Electric Heartbeat,Echo Harbor,R&B,2000,71,Sad,95.1,0.509,0.338,0.484,0.562,Electric Heartbeat Echo Harbor R&B Sad 2000
+SNG0146,Golden Dreams,Blue Meridian,Indie,2000,68,Chill,106.2,0.602,0.592,0.384,0.379,Golden Dreams Blue Meridian Indie Chill 2000
+SNG0147,Urban Dreams,Blue Meridian,Folk,2023,60,Dreamy,100.0,0.352,0.449,0.542,0.634,Urban Dreams Blue Meridian Folk Dreamy 2023
+SNG0148,Velvet Signals,Iris Monroe,R&B,2007,54,Sad,96.7,0.706,0.618,0.613,0.672,Velvet Signals Iris Monroe R&B Sad 2007
+SNG0149,Urban Letters,The Signal Theory,Folk,2021,48,Nostalgic,79.6,0.322,0.325,0.784,0.567,Urban Letters The Signal Theory Folk Nostalgic 2021
+SNG0150,Electric Letters,Mira Vale,Indie,2019,67,Dreamy,100.7,0.619,0.459,0.374,0.297,Electric Letters Mira Vale Indie Dreamy 2019
