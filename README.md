@@ -139,3 +139,18 @@ streamlit run app/streamlit_app.py
 ## Disclaimer
 
 This project is based on academic research and enhanced into a portfolio-grade AI recommendation system for educational and demonstration purposes.
+
+## Recommendation Pipeline
+
+The recommendation workflow is organized into a sequence of preprocessing, representation, retrieval, ranking, and presentation steps:
+
+1. **Data preprocessing** — song, artist, and genre metadata are cleaned and prepared for analysis.
+2. **Feature representation** — relevant metadata and song characteristics are transformed into numerical representations.
+3. **Similarity computation** — cosine similarity is used to measure relationships between songs.
+4. **Candidate retrieval** — the system retrieves the most relevant candidate songs for a selected input.
+5. **Ranking** — candidates are ranked by similarity to produce the Top-N recommendations.
+6. **Explanation** — recommendation results are presented with similarity information and supporting metadata.
+7. **Application layer** — the Streamlit interface exposes the recommendation workflow through an interactive user experience.
+
+This pipeline separates data preparation, recommendation logic, and application presentation so that each component can be developed and evaluated independently.
+EOF
